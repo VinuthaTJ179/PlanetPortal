@@ -17,8 +17,8 @@ document.addEventListener('DOMContentLoaded', function () {
                 // Apply typing animation with slower transition
                 setTimeout(function () {
                     letter.style.opacity = 1;
-                }, index * 450); // Adjust the time delay for slower typing speed
-            }, index * 450); // Adjust the time delay for slower typing speed
+                }, index * 490; // Adjust the time delay for slower typing speed
+            }, index * 490); // Adjust the time delay for slower typing speed
         });
     }
 
